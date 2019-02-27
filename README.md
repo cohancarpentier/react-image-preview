@@ -2,4 +2,6 @@
 
 ## Demo
 
-[![Demo](https://i.imgur.com/bGKGpzT.gif)]
+![Alt Text](https://i.imgur.com/bGKGpzT.gif)
+
+
